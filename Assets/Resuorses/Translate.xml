@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Keys>
+	<Key Name="message_0_text">
+		<Translate>
+			<English>Hi! How are you?</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+	<Key Name="message_1_text">
+		<Translate>
+			<English>Hi</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+	<Key Name="message_1_answer">
+		<Translate>
+			<English>Hi! Welcome to my chat</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+
+	<Key Name="message_2_text">
+		<Translate>
+			<English>What's your name</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+	<Key Name="message_2_answer">
+		<Translate>
+			<English>I'm Max</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+
+	<Key Name="message_3_text">
+		<Translate>
+			<English>How are you?</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+	<Key Name="message_3_answer">
+		<Translate>
+			<English>I'm fine, thank you</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+
+	<Key Name="message_4_text">
+		<Translate>
+			<English>How old are you?</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+	<Key Name="message_4_answer">
+		<Translate>
+			<English>I,m 25 years old</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+
+	<Key Name="message_5_text">
+		<Translate>
+			<English>Nice to meet you</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+	<Key Name="message_5_answer">
+		<Translate>
+			<English>Me too</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+
+	<Key Name="message_6_text">
+		<Translate>
+			<English>Where are you from?</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+	<Key Name="message_6_answer">
+		<Translate>
+			<English>I'm from United States</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+
+	<Key Name="message_7_text">
+		<Translate>
+			<English>What kind of food do you like?</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+	<Key Name="message_7_answer">
+		<Translate>
+			<English>I love pizza</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+
+	<Key Name="message_8_text">
+		<Translate>
+			<English>Can I call you now?</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+	<Key Name="message_8_answer">
+		<Translate>
+			<English>Yes! I'm waiting for your call!!!</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+
+	<Key Name="message_9_text">
+		<Translate>
+			<English>Can we have a video call with you now?</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+	<Key Name="message_9_answer">
+		<Translate>
+			<English>Yes, of course</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+
+	<Key Name="message_10_text">
+		<Translate>
+			<English>What is you favourite cartoon?</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+	<Key Name="message_10_answer">
+		<Translate>
+			<English>My favourite cartoon is Lion King</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+
+	<Key Name="message_11_text">
+		<Translate>
+			<English>What is your education?</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+	<Key Name="message_11_answer">
+		<Translate>
+			<English>"I'm in high school in London</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+
+	<Key Name="message_12_text">
+		<Translate>
+			<English>Is it possible to be friends?</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+	<Key Name="message_12_answer">
+		<Translate>
+			<English>Yes, of course. Let's become friends</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+
+	<Key Name="message_13_text">
+		<Translate>
+			<English>Goodbye! See you!</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+	<Key Name="message_13_answer">
+		<Translate>
+			<English>See you again</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+
+	<Key Name="message_14_text">
+		<Translate>
+			<English>Have a nice day!</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+	<Key Name="message_14_answer">
+		<Translate>
+			<English>Thank you for this chat, you too!</English>
+			<Russian>Russkiy</Russian>
+		</Translate>
+	</Key>
+</Keys>

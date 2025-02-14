@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878937415775",
+    "project_id": "dog-fake-video-call",
+    "storage_bucket": "dog-fake-video-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878937415775:android:300719f501f81325363bea",
+        "android_client_info": {
+          "package_name": "com.UnalyDev.DogFakeVideoCall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcfUySeSqDddIzVckStk4QFuU5u3QZ6kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
